@@ -15,7 +15,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37912.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37912.jpg"
           },
-          "summary": "<p>Rick takes Morty to another dimension to get some seeds for him but Morty's parents are considering to put Rick in a retirement home for keeping Morty away from school to help him in his lab.</p>",
+          "summary": "Rick takes Morty to another dimension to get some seeds for him but Morty's parents are considering to put Rick in a retirement home for keeping Morty away from school to help him in his lab.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14308"
@@ -36,7 +36,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37913.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37913.jpg"
           },
-          "summary": "<p>Morty's small, white dog Snuffles gets on the nerves of the family, so Rick quickly builds a knowledge enhancing helmet for the dog. In the meantime, Rick and Morty decide to incept the dreams of Morty's math teacher, Mr. Goldenfold in order to convince him to give Morty A's in math. While the duo are sent on an epic dream world journey, Snuffles slowly gains sentience, which leads to a slew of even more problems.</p>",
+          "summary": "Morty's small, white dog Snuffles gets on the nerves of the family, so Rick quickly builds a knowledge enhancing helmet for the dog. In the meantime, Rick and Morty decide to incept the dreams of Morty's math teacher, Mr. Goldenfold in order to convince him to give Morty A's in math. While the duo are sent on an epic dream world journey, Snuffles slowly gains sentience, which leads to a slew of even more problems.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14309"
@@ -57,7 +57,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37914.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37914.jpg"
           },
-          "summary": "<p>It's around Christmas time and Jerry's parents are coming to visit so he wants everybody to have a normal holiday without technology and without Rick. Fortunately for him, Rick has other plans, involving building a molecular theme park inside of a friend of his named Ruben, and he shrinks down Morty and sends him in there to test it out.</p>",
+          "summary": "It's around Christmas time and Jerry's parents are coming to visit so he wants everybody to have a normal holiday without technology and without Rick. Fortunately for him, Rick has other plans, involving building a molecular theme park inside of a friend of his named Ruben, and he shrinks down Morty and sends him in there to test it out.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14310"
@@ -78,7 +78,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37915.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37915.jpg"
           },
-          "summary": "<p>Rick and Morty try to get to the bottom of a mystery in this M. Night Shyamalan style twistaroony of an episode.</p>",
+          "summary": "Rick and Morty try to get to the bottom of a mystery in this M. Night Shyamalan style twistaroony of an episode.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14311"
@@ -99,7 +99,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37916.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37916.jpg"
           },
-          "summary": "<p>Rick provides the family with a solution to their problems, freeing him up to go on an adventure led by Morty. Sounds good, better record this one, broh!</p>",
+          "summary": "Rick provides the family with a solution to their problems, freeing him up to go on an adventure led by Morty. Sounds good, better record this one, broh!",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14312"
@@ -120,7 +120,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37917.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37917.jpg"
           },
-          "summary": "<p>Rick provides Morty with a love potion to get Jessica. The serum backfires &amp; Rick's attempt to fix things creates Cronenberg inspired monsters. Rick is okay with it but Morty feels partly responsible for creating a living nightmare.</p>",
+          "summary": "Rick provides Morty with a love potion to get Jessica. The serum backfires &amp; Rick's attempt to fix things creates Cronenberg inspired monsters. Rick is okay with it but Morty feels partly responsible for creating a living nightmare.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14313"
@@ -141,7 +141,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37918.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37918.jpg"
           },
-          "summary": "<p>Morty convinces Rick to buy him a sexy robot. Guess what tho? Trouble happens, dog.</p>",
+          "summary": "Morty convinces Rick to buy him a sexy robot. Guess what tho? Trouble happens, dog.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14314"
@@ -162,7 +162,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37919.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37919.jpg"
           },
-          "summary": "<p>When Rick hooks up the family's tv receiver with reality-tv shows from alternate dimensions, and allows them to see themselves in different versions of their lives, they begin to wonder what they have, and more importantly - what could have been.</p>",
+          "summary": "When Rick hooks up the family's tv receiver with reality-tv shows from alternate dimensions, and allows them to see themselves in different versions of their lives, they begin to wonder what they have, and more importantly - what could have been.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14315"
@@ -183,7 +183,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37920.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37920.jpg"
           },
-          "summary": "<p>Rick goes to battle with the devil, and Summer gets upset about it, broh. Plus Jerry and Morty hang out, broh!</p>",
+          "summary": "Rick goes to battle with the devil, and Summer gets upset about it, broh. Plus Jerry and Morty hang out, broh!",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14316"
@@ -204,7 +204,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37921.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37921.jpg"
           },
-          "summary": "<p>Rick has a run in with some old associates, resulting in a fallout with Morty. You got any chips, broh?</p>",
+          "summary": "Rick has a run in with some old associates, resulting in a fallout with Morty. You got any chips, broh?",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14317"
@@ -225,7 +225,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37922.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37922.jpg"
           },
-          "summary": "<p>Beth and Jerry head for an iceberg of a date leaving Rick in charge. Morty doesn't get to go on any more adventures if the house isn't in the same condition when they get back.</p>",
+          "summary": "Beth and Jerry head for an iceberg of a date leaving Rick in charge. Morty doesn't get to go on any more adventures if the house isn't in the same condition when they get back.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/14318"
@@ -246,7 +246,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37923.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37923.jpg"
           },
-          "summary": "<p>Rick don goofed this time and mussed up the whole time frame broh! Beth and Jerry get romantic!</p>",
+          "summary": "Rick don goofed this time and mussed up the whole time frame broh! Beth and Jerry get romantic!",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/157166"
@@ -267,7 +267,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37924.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37924.jpg"
           },
-          "summary": "<p>Morty tries to save a life.</p>",
+          "summary": "Morty tries to save a life.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/183053"
@@ -288,7 +288,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/37925.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/37925.jpg"
           },
-          "summary": "<p>Rick becomes emotional; Beth and Jerry are hard on each other.</p>",
+          "summary": "Rick becomes emotional; Beth and Jerry are hard on each other.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/201178"
@@ -309,7 +309,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/38412.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/38412.jpg"
           },
-          "summary": "<p>Meeting new friends; Morty goes ballistic.</p>",
+          "summary": "Meeting new friends; Morty goes ballistic.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/201179"
@@ -330,7 +330,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/15/39536.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/15/39536.jpg"
           },
-          "summary": "<p>Rick and Morty must step up and save things; a new religion starts up.</p>",
+          "summary": "Rick and Morty must step up and save things; a new religion starts up.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/201180"
@@ -351,7 +351,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171025.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171025.jpg"
           },
-          "summary": "<p>Rick forgets to check his oil, and must repair his car.</p>",
+          "summary": "Rick forgets to check his oil, and must repair his car.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/201181"
@@ -372,7 +372,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/18/46223.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/18/46223.jpg"
           },
-          "summary": "<p>Rick joins in on hijinks, Beth and Jerry sort out relationship issues.</p>",
+          "summary": "Rick joins in on hijinks, Beth and Jerry sort out relationship issues.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/211831"
@@ -393,7 +393,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171026.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171026.jpg"
           },
-          "summary": "<p>Jerry gets sick and Rick sparks up the TV.</p>",
+          "summary": "Jerry gets sick and Rick sparks up the TV.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/211832"
@@ -414,7 +414,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/68/171027.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/68/171027.jpg"
           },
-          "summary": "<p>Morty makes a mistake and Jerry and Summer work on their father daughter relationship.</p>",
+          "summary": "Morty makes a mistake and Jerry and Summer work on their father daughter relationship.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/211833"
@@ -435,7 +435,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/22/57034.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/22/57034.jpg"
           },
-          "summary": "<p>Birdperson is getting married and invites the Smith family to the wedding.</p>",
+          "summary": "Birdperson is getting married and invites the Smith family to the wedding.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/211834"
@@ -456,7 +456,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/105/262759.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/105/262759.jpg"
           },
-          "summary": "<p>Rick, still in galactic prison, puts an intricate escape plan into action. Back on Earth, which is now under federation control, Morty and Summer have an argument about their grandpa.</p>",
+          "summary": "Rick, still in galactic prison, puts an intricate escape plan into action. Back on Earth, which is now under federation control, Morty and Summer have an argument about their grandpa.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/1119144"
@@ -477,7 +477,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/122/306764.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/122/306764.jpg"
           },
-          "summary": "<p>With the kids dealing with their parents' divorce, Rick takes them to a Mad Max-style universe where he tries to steal a green crystal from a group of scavengers.</p>",
+          "summary": "With the kids dealing with their parents' divorce, Rick takes them to a Mad Max-style universe where he tries to steal a green crystal from a group of scavengers.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/1144079"
@@ -498,7 +498,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/123/308859.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/123/308859.jpg"
           },
-          "summary": "<p>Rick turns himself into a pickle in one of his crazy experiments. The Smith family attends therapy.</p>",
+          "summary": "Rick turns himself into a pickle in one of his crazy experiments. The Smith family attends therapy.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/1247370"
@@ -519,7 +519,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/123/309507.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/123/309507.jpg"
           },
-          "summary": "<p>Rick and Morty are summoned by the Vindicators to stop Worldender but end up in a deathtrap conceived by Drunk Rick. </p>",
+          "summary": "Rick and Morty are summoned by the Vindicators to stop Worldender but end up in a deathtrap conceived by Drunk Rick. ",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/1247371"
@@ -540,7 +540,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/124/310725.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/124/310725.jpg"
           },
-          "summary": "<p>Rick takes Jerry on a sympathy adventure to a resort where everyone is immortal when there, and Jerry meets some old acquaintances of Rick's who want payback.</p>",
+          "summary": "Rick takes Jerry on a sympathy adventure to a resort where everyone is immortal when there, and Jerry meets some old acquaintances of Rick's who want payback.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/1264543"
@@ -561,7 +561,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/125/314281.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/125/314281.jpg"
           },
-          "summary": "<p>Following a stressful adventure, Rick and Morty go on a break to a spa where they remove their toxins, which in turn take a form of their own.</p>",
+          "summary": "Following a stressful adventure, Rick and Morty go on a break to a spa where they remove their toxins, which in turn take a form of their own.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/1264544"
@@ -582,7 +582,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/127/318431.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/127/318431.jpg"
           },
-          "summary": "<p>Rick and Morty head to Atlantis. Meanwhile, the Citadel of Ricks undergoes major changes under new leadership</p>",
+          "summary": "Rick and Morty head to Atlantis. Meanwhile, the Citadel of Ricks undergoes major changes under new leadership",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/1269493"
@@ -603,7 +603,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/128/320259.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/128/320259.jpg"
           },
-          "summary": "<p>Rick reveals to Morty his \"Morty's mind blowers,\" a collection of memories Morty asked Rick to erase from his mind.</p>",
+          "summary": "Rick reveals to Morty his \"Morty's mind blowers,\" a collection of memories Morty asked Rick to erase from his mind.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/1269494"
@@ -624,7 +624,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/128/322458.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/128/322458.jpg"
           },
-          "summary": "<p>Jerry is lucky with a lady and Beth recalls her childhood.</p>",
+          "summary": "Jerry is lucky with a lady and Beth recalls her childhood.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/1285112"
@@ -645,7 +645,7 @@
             "medium": "http://static.tvmaze.com/uploads/images/medium_landscape/129/324378.jpg",
             "original": "http://static.tvmaze.com/uploads/images/original_untouched/129/324378.jpg"
           },
-          "summary": "<p>Rick goes on a confrontation with the President.</p>",
+          "summary": "Rick goes on a confrontation with the President.",
           "_links": {
             "self": {
               "href": "http://api.tvmaze.com/episodes/1285113"
