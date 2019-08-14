@@ -109,7 +109,7 @@
         {
           "id": 14313,
           "url": "http://www.tvmaze.com/episodes/14313/rick-and-morty-1x06-rick-potion-9",
-          "name": "Rick Potion #9",
+          "name": "Rick Potion number 9",
           "season": 1,
           "number": 6,
           "airdate": "2014-01-27",
@@ -382,7 +382,7 @@
         {
           "id": 211832,
           "url": "http://www.tvmaze.com/episodes/211832/rick-and-morty-2x08-interdimensional-cable-2-tempting-fate",
-          "name": "Interdimensional Cable 2: Tempting Fate",
+          "name": "Interdimensional Cable 2 Tempting Fate",
           "season": 2,
           "number": 8,
           "airdate": "2015-09-20",
@@ -508,7 +508,7 @@
         {
           "id": 1247371,
           "url": "http://www.tvmaze.com/episodes/1247371/rick-and-morty-3x04-vindicators-3-the-return-of-worldender",
-          "name": "Vindicators 3: The Return of Worldender",
+          "name": "Vindicators 3 The Return of Worldender",
           "season": 3,
           "number": 4,
           "airdate": "2017-08-13",
